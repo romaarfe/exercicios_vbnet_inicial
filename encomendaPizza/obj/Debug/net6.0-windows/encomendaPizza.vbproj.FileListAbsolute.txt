@@ -1,0 +1,17 @@
+C:\Users\romaa\source\repos\encomendaPizza\bin\Debug\net6.0-windows\encomendaPizza.exe
+C:\Users\romaa\source\repos\encomendaPizza\bin\Debug\net6.0-windows\encomendaPizza.deps.json
+C:\Users\romaa\source\repos\encomendaPizza\bin\Debug\net6.0-windows\encomendaPizza.runtimeconfig.json
+C:\Users\romaa\source\repos\encomendaPizza\bin\Debug\net6.0-windows\encomendaPizza.dll
+C:\Users\romaa\source\repos\encomendaPizza\bin\Debug\net6.0-windows\encomendaPizza.pdb
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.vbproj.AssemblyReference.cache
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.vbproj.GenerateResource.cache
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.AssemblyInfoInputs.cache
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.AssemblyInfo.vb
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.vbproj.CoreCompileInputs.cache
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.dll
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\refint\encomendaPizza.dll
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.pdb
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.genruntimeconfig.cache
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\ref\encomendaPizza.dll
+C:\Users\romaa\source\repos\encomendaPizza\obj\Debug\net6.0-windows\encomendaPizza.frmEncomenda.resources
