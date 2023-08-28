@@ -1,1 +1,23 @@
-# Exercícios iniciais em VB.NET - Programador de Informática - IEFP
+<h3 align="center"> 
+  🚧 EXERCÍCIOS INICIAIS EM VB.NET 🚧
+</h3>
+
+---
+#### ⚙️ ETAPAS / FUNCIONALIDADES:
+
+- [x] Criação de base de dados
+- [x] Conexão com base de dados em servidor (local e remoto)
+- [x] Implementação do código associado
+- [x] Testes da funcionalidades
+
+---
+#### 🔧 FERRAMENTAS / TECNOLOGIAS:
+
+- Visual Basic
+- .NET Framework
+- Forms 
+- SQL
+- SQL Server
+
+---
+##### 📖 Projeto para Módulo de VB.NET - IEFP
